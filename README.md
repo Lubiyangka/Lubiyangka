@@ -5,20 +5,7 @@
 <tr><td>
 
 ###  About Me
-
-我是一名2022级软件工程的学生，来自哈尔滨工业大学。
-
-主要技术栈：
-
-- 后端开发：主要使用Spring Boot + Java框架，掌握Mybatis-Plus 和JPA持久层框架，Maven和Gradle构建工具
-- 数据处理：多次数学建模比赛中，处理数据，可视化
-
-除此之外参与过前端开发，搭建分布式系统。
-
-
-
 I am a software engineering student of class 2022 from Harbin Institute of Technology.
-
 Main technology stack:
 
 - Back-end development: mainly using Spring Boot + Java framework, mastering Mybatis-Plus and JPA persistence layer framework, Maven and Gradle build tools
